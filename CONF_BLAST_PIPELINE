@@ -1,0 +1,6 @@
+INPUT_FILE = EYE.fa
+FASTA_DIR = /media/LOCAL_DATA/UNIPROT
+BLASTPLUS_DIR = /home/remo/src/ncbi-blast-2.2.24+/bin
+OUT_DIR = /home/remo/Desktop/RESULTS
+INPUT_DIR = /home/remo/Dropbox/SEQ/OCTOPUS/EYE
+BLASTDB_DIR = /media/LOCAL_DATA/BLASTDB
